@@ -1,0 +1,36 @@
+Work angels
+1. intereaction among variables
+2.a %age gain pattern comparison among cities
+2.b putting population into persepective 
+2.c putting hight in prospective
+3. highet was comparison for polutant
+4. season wise spread
+5. any realtion with goverment rules
+6. curtain wall effect -- from dense building
+7. find localized co relation pattern visualially which might not whow up on overall coelation numerically
+8.Unsterding pattern taht may help in designing probabale solutions or factors effecting teh air pollution most
+
+##vehicale regsited in india/maharashtra
+http://mospi.nic.in/statistical-year-book-india/2017/189
+file :- Table-20.1_0.xlsx
+// data
+https://data.gov.in/catalog/all-india-and-state-wise-number-taxed-and-tax-exempted-motor-vehicles-registered-india?filters%5Bfield_catalog_reference%5D=85817&format=json&offset=0&limit=6&sort%5Bcreated%5D=desc
+
+
+
+[1] Public Health Foundation of India(PHFI), New Delhi, 6 December 2018, Press Release (https://phfi.org/wp-content/uploads/2018/12/first-comprehensive-estimates-of-the-impact-of-air-pollution-india.pdf)
+
+ [2] Open Data Government Platform India,  https://data.gov.in/catalog/historical-daily-ambient-air-quality-data?filters%5Bfield_catalog_reference%5D=1140581&filters%5Bfield_file_format%3Afield_short_name%5D=csv&filters%5Bhaving_api%5D=No&format=json&offset=0&limit=6&query=maharashtra&sort%5Bcreated%5D=desc
+[3] Maharashtra state Data bank,  https://mahasdb.maharashtra.gov.in/population1.do
+[4]Government of India, Ministry of Statistic & Programme Implementation, http://mospi.nic.in/statistical-year-book-india/2017/189
+
+
+
+###asked morien
+   http://mospi.nic.in/statistical-year-book-india/2017/189   
+yeh bike ka hou
+ki carir eka yeh bhi batu
+00000030400934873
+sbi account
+PUNE WORLD TRADE CENTRE BRANCH
+rainfall, area & woh link 2-wheeler ka ya 4 wheeler hou

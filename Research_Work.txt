@@ -1,0 +1,277 @@
+may sound stupid:-
+We have been asked to check the latest research work to get most updated information; 
+we are also asked to validate if old studies have been igonred during literature review.
+If we read the latest paper how will we know about the previous studies and if they are missed?  
+How do we confidentially/comprehensivelly say that the previous studies are not ignored?
+
+UCS/USR reprosiotory
+
+
+###census#######################################
+
+http://pibmumbai.gov.in/English/PDF/E2013_PR798.PDF
+
+ 
+
+http://www.censusindia.gov.in/DigitalLibrary/TVDirectory.aspx
+
+https://www.census2011.co.in/census/state/maharashtra.html
+
+ 
+
+https://en.wikipedia.org/wiki/Census_of_India
+
+
+##########################################################
+
+###############air pollutants
+https://aqicn.org/city/pune/
+
+ 
+
+https://www.kaggle.com/shrutibhargava94/india-air-quality-data/version/1? – data download
+
+ 
+
+https://data.gov.in/catalog/historical-daily-ambient-air-quality-data
+
+http://cpcb.nic.in/displaypdf.php?id=aG9tZS9haXItcG9sbHV0aW9uL05vLTE0LTE5ODEucGRm
+
+http://web.iitd.ac.in/~sagnik/EI2018.pdf
+
+http://cpcb.nic.in/
+
+http://cpcb.nic.in/air-pollution/
+
+
+http://mpcb.gov.in/envtdata/envtair.php
+
+http://mpcb.gov.in/images/pdf/actionplanpune11.pdf
+
+
+
+
+##########################################
+
+
+We need guidance in choosing the topic for our research?
+
+journal , acces kernal  content list of relevant general?
+letter pdf, file style pdf?
+
+air pollution
+https://phfi.org/member/prof-lalit-dandona/
+lalit.dandona@phfi.org
+
+impact pf 2/4 wheeler on puen population
+
+impact of formation of footbal result, avaerage formation across europe veruss in contires
+
+The Environment Protection Act (1986), the Air Act (1981), and the
+Water Act (1974). Although a detailed discussion of these laws is outside the scope of
+this paper, they are noteworthy for the freedom they provide regulators to determine
+how pollution should be regulated. 
+india has comamand and control satergies from polution
+delhi goverment rule :-On Dec 1, 2015, the Delhi government announced that the odd-even program for
+privately owned cars would be launched as a pilot during January 1-15, 2016
+
+
+Pune
+526 2015
+263 Bank of baroda
+ 92 bhosari
+89 nal Stop
+84 swargate
+
+so2 No2
+SO2	NO2	RSPM/PM10	PM 2.5
+ we don't have data fro PM2.5 at all
+ 
+2014
+588
+293 Bank of baroda
+ 100 bhosari
+96 nal Stop
+99 swargate
+
+
+'solapur 254
+nashik 211.7
+Aurangabad 236
+Kolhapur 233
+Lote 194.
+Tarapur 257
+mahad 139
+Roha 124
+Sangli 233
+
+
+pune -nashik 211.7
+mumbai 152
+thane 151
+solapur 254
+nagpur 706
+Aurangabad (MS) 236.9
+Aurangabad 236
+Chandrapur 730 
+Greater Mumbai 124  442
+Kolhapur 233
+Amravati 552
+Lote 194.
+Navi Mumbai 128
+Tarapur 257
+mahad 139
+Badlapur 138
+aurangabad 236
+Jalgaon 421
+Latur 324
+Roha 124
+Sangli 233
+Ulhasnagar  152 mumbai side
+akola 478
+Jalna 296.9
+Nanded 442
+Dombivli 147 mumbai 
+
+
+https://www.hindawi.com/journals/jamc/2019/9753927/
+The multivariate analysis employing correlation analysis, principal component analysis (PCA), 
+and cluster analysis (CA) resulted in establishing a correlation between different pollutants.
+ The results obtained allowed classification of different monitoring stations on the basis of each of the four pollutants,
+ revealing information about their sources and mechanisms, visualizing their spatial distribution, and monitoring their levels according to 
+ the average annual limits established in the legislation.
+ ########################################################################
+##logical
+##  talk about population diistribution
+ ## rate per million of people
+############################################################################## 
+ ##Point
+ ## statistical
+ Perform clustering to group polution levels
+ Correlation analysis
+ PCA soem how
+ canonical correlation analysis (CCA)
+ spatial interpolation methods
+		Among many spatial interpolation approaches, a geostatistical method such as ordinary kriging (OK) is the most widely used method because they provide concentration estimates together 
+		with standard error at unmonitored locations 
+## talk about population diistribution
+
+The statistical methods used in this study were Pearson’s correlation coefficients, principal component analysis (PCA), and hierarchical cluster analysis (CA). The correlation coefficient is a statistic tool used to measure the extent of the relationship between variables, when compared in pairs. There are several types of correlation coefficients: Pearson’s correlation is a correlation coefficient commonly used in linear regression and has been used to measure the strength of relationships between the four air pollutants.
+###jouranal reprosetory
+arxiv
+
+Herein, the application of statistical methodologies such as multivariate analysis with principal component analysis (PCA) and cluster analysis (CA) or geostatistical analysis with ordinary kriging (OK) could be a very useful aid in their interpretation of air pollution data. 
+
+https://www.amazon.in/Introduction-Multivariate-Statistical-Analysis-3ed/dp/8126524480/ref=pd_bxgy_14_2/259-5773122-6498428?_encoding=UTF8&pd_rd_i=8126524480&pd_rd_r=5c6bd472-734c-11e9-bd09-6b265a2d278b&pd_rd_w=wj5yN&pd_rd_wg=Xo1qE&pf_rd_p=92c5dc59-6da4-488e-ba00-262537223f6b&pf_rd_r=4VEK45KBZACZ8W06RQCT&psc=1&refRID=4VEK45KBZACZ8W06RQCT
+https://www.amazon.in/Applied-Multivariate-Statistical-Analysi-Johnson/dp/9332549559?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=_k_CjwKCAjwwtTmBRBqEiwA-b6c_9QyVOArpypWq3yLjuusTwqxoOK1jQx88sEKh62PES8zzcBbh0PrCxoCBp0QAvD_BwE_k_&gclid=CjwKCAjwwtTmBRBqEiwA-b6c_9QyVOArpypWq3yLjuusTwqxoOK1jQx88sEKh62PES8zzcBbh0PrCxoCBp0QAvD_BwE
+
+
+####### order of reporting
+point out teh collection points in various cities,
+ where it is highest and where lowest
+
+## One of these methods is Ordinary Kriging,
+whichusesonlysampledataforinterpolationofthe missing values and is considered as the best linear unbiased estimator (BLUE). 
+
+##sesnex population aross maharashtra form 1987 to 2015, also hieight of all mazor city form sea level
+talk about even co relation like new engine rules, rais ein constrution and all
+?? non linear julian day based adjustment was done to remove seasonal data
+##add graph based map on report
+
+## data substitution using the approch of kim, intercept of liner ligresion bteween pm2.4 agaisb oc.. oc was teh oene taht hand blnk values
+
+??man-kindel with thiel-sen slop
+??thiels -sen not affected by outliners, provide smedian slops form all slops from pair of vlaues
+@peice wise treand analsy in 3 section liner regression
+
+#######################################
+To identify the source locations of transported PM (SO2 emissions), a
+trajectory ensemble method named Potential Source Contribution
+Function (PSCF) (Hopke, 2016) was used to estimate of the conditional
+probabilities of upwind areas being the source locations of the observed
+pollutants
+
+##################################
+## Season wise impact
+Monthly-averaged data were analyzed in the trend analyses. Seasonal average statistics of concentrations and the associated 75th and
+99th confidence intervals calculated by bootstrapping the data (n =
+200) are reported in Fig. SI3. Typical seasonal cycles with maxima in
+the coldest months (Nov–Feb) and minima in the warmest period
+(Jun–Sept) were found for pollutants mainly linked to combustion
+(CO, SO2, and DC). Such cycles exist given: (i) increased emissions for
+domestic heating during the colder months; (ii) lower mixed layer
+heights and possibly strong thermal inversions during the winter, (iii)
+generally lower winds speeds and increased precipitation particularly
+snow that scavenges pollutants in winter, and (iv) reduced atmospheric
+oxidants in shorter photoperiod months
+
+######################
+ Similar patterns of carbonaceous PM are already reported in Rochester (Rattigan et al., 2010,
+2013; Wang et al., 2011a, 2011b) and are mainly shaped by: (i) the increased outdoor activity in summer (e.g., barbeques); (ii) the open
+burning of leaves during late summer-autumn; and (iii) the increased
+wood burning emissions with the onset of colder periods in autumn.
+During the coldest months and possible snow cover, there is a preference for using natural gas over wood burning for domestic heating.
+The nitrate seasonality is related to: (i) its equilibrium properties leading to being predominately gaseous at temperatures over 20 °C
+(Schaap et al., 2004) and (ii) the decrease in sulfate production 
+
+## mazor polution related riules liek engien type change , cng chnage etc
+
+## pattern when its good or bad
+
+## heich month hsa what behaviou , which omonth has more temratur
+@@ week day wis ehwich has what
+# day hour wise 
+33negative in winter and psotive in summer for new york
+##########################################################
+## read up on this
+M-K
+regression with Sen's slope
+
+
+
+Maximal O3 concentrations are more likely to occur during the
+warmer months, when favorable meteorological conditions, enhanced
+photochemistry, and availability of reactive organic precursors are++
+more conducive to O3 formation (Fig. SI13).
+
+## nay goveretn rule fo rpollution control and power palnt coal bases closing, indury specific rull for les poltion
+
+##https://mahasdb.maharashtra.gov.in/population1.do -- maharashtar popultion dstirct wise for 2001 and 2011
+
+
+##########################################################################################
+############visualisation
+
+Several well-established visualization techniques such as parallel coordinates and polar
+systems are integrated into our system. We also develop various novel methods, including circular pixel bar charts embedded into
+polar systems, enhanced parallel coordinates with S-shape axis, and weighted complete graphs
+
+circular pixel bar charts??
+
+Some novel techniques have been developed
+to address special challenges posed by weather data. In particular, we
+introduce circular pixel bar charts to detect correlations between wind
+direction, wind speed, and other attributes. We demonstrate how vectors
+and multiple scalar attributes in weather data can be effectively
+visualized by polar systems with embedded pixel bar charts and tailored
+parallel coordinates. The weighted complete graph is employed
+to reveal the overall correlation of all data dimensions and to determine
+the order of axes in parallel coordinates. Based on our system,
+some interesting patterns have been detected by domain scientists and
+valuable feedback about these visualization techniques is obtained.
+
+nonphotorealistic brush strokes for visualizing multidimensional information
+spaces
+
+on the other hand,
+applied a controllable texture synthesis technique to exploit natural
+textures for the same purpose
+VIS-STAMP
+
+8. Area preserving map-- simpel meause is to take teh square root of teh values
+9.Circular pixel baar
+
+polar systems with embedded circular pixel bar charts can only reveal
+the relationship between five dimensions while only correlations
+between attributes represented by neighboring axes can usually be detected
+in parallel coordinates.
