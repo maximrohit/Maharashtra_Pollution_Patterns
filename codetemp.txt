@@ -1,0 +1,9 @@
+NO2COL=['City_poll','Type_of_Location','month_number','NO2_Median','Median_NO2_MOM_diff','NO2_P10','P10_NO2_MOM_diff','NO2_P90','P90_NO2_MOM_diff','NO2_Median_YOY_diff','NO2_P10_YOY_diff','NO2_P90_YOY_diff','total_road','National_Highway_per','State_Highway_per','Main_District_Highway_per','Other_district_Rural_Roads_per','indus_by_overall','indus_by_forest','indus_by_nonforest','rec_id','RainPerArea','CarSalesPerArea','RainPerCarSales']
+
+SO2COL=['City_poll','Type_of_Location','month_number','SO2_Median','Median_SO2_MOM_diff','SO2_P10','P10_SO2_MOM_diff','SO2_P90','P90_SO2_MOM_diff','SO2_Median_YOY_diff','SO2_P10_YOY_diff','SO2_P90_YOY_diff','total_road','National_Highway_per','State_Highway_per','Main_District_Highway_per','Other_district_Rural_Roads_per','indus_by_overall','indus_by_forest','indus_by_nonforest','rec_id','RainPerArea','CarSalesPerArea','RainPerCarSales']
+
+RSPMPM10COL=['City_poll','Type_of_Location','month_number','RSPM_PM10_Median','Median_RSPM_PM10_MOM_diff','RSPM_PM10_P10','P10_RSPM_PM10_MOM_diff','RSPM_PM10_P90','P90_RSPM_PM10_MOM_diff','RSPM_PM10_Median_YOY_diff','RSPM_PM10_P10_YOY_diff','RSPM_PM10_P90_YOY_diff','total_road','National_Highway_per','State_Highway_per','Main_District_Highway_per','Other_district_Rural_Roads_per','indus_by_overall','indus_by_forest','indus_by_nonforest','rec_id','RainPerArea','CarSalesPerArea','RainPerCarSales']
+
+
+
+YearClusterData=Base_polpop_iell_csrf[['year_number','NO2_Median','NO2_P10','NO2_P90','SO2_Median','SO2_P10','SO2_P90','RSPM_PM10_Median','RSPM_PM10_P10','RSPM_PM10_P90','P90_RSPM_PM10_MOM_diff','RSPM_PM10_Median_YOY_diff','RSPM_PM10_P10_YOY_diff','RSPM_PM10_P90_YOY_diff']]
