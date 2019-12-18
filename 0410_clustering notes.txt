@@ -1,0 +1,92 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cluster 0 high spm 
+:: median and p10: L NO2 , SO2,and rspm; high spm :: p90 low no2 and  so2; high rspm and very high spm
+:: median,p10,p90 mom: diff vey low negatives ;
+high population, medium population density, high sex ratio, low literacy rate, moderate elevation
+moderate forest area but high percentage wise area, small area wise, and non agrea cultural ares is small and 5 per whis is also very low
+high cultivalabel land at 183 and 17 percent; moderate national highway; high state highway ; high main district and other  high way;moderate railroad
+low industrial area; 
+manu;;  moderate micro indusries, high small industies, low medium indus high large industires
+service; high micro, modraet small , moderaet medium, low large
+high micro cluster, high small, modede medium and large
+high manu total , high services total , high instudries total
+moderate rainfall, moadeaet rianfall per area; high industri by non foreset area
+moderate industru by forest
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+no2so2 low, rspm10 low and high spm, 
+monthly diff is slightly negative an stab;el at all p10,50,90, polluatant recudes in is cluster recently, populationis count wise high but densirty is low, eleveal is moderate
+forest ares is moderaet too but high percentage wise, cultivabale lasd is als high 175 of land  roads are higher side and rail rod is moderate
+small and high are indsuties are high , large service industies ar elow all other serice indutises are high
+hindsutry pe forset non forest area is high , overall isntries coutnis also high
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+cluster 1 moderate no2 and  high spm
+p50;low no2,so2, extremely high spm,  high rspm ; p 10  acceatble rspm10,so2,no2, high spm ; p90 ; accepatbel so2 and noe 2 very hi rspm and extrement high spm
+p50mom; no2, so2 are low, and rspm and spm incresed high and moderate, p10 ; minmal chane in so2 and no2 mosderaet spm rspm ; p 90 ; sharp chaneg in spm and rspm 
+33
+moderate population , population density is high , moderate elevation, high foreste area and percenatge wise area, small-moderate areae wise
+non-agricultural area is very high 	, percentage wise modrate; barron land is 1/3  in ratio as compare to cluster 1 still moderate only 
+all roads are comparatively 1/2 , rail roa dare almost same 
+industrial area is 255 more teh cluster 0 but number of instreis are 1/3 mocro manu, 1/5 for small manu, 1/8 large manu ;
+midro services size is same, medium and large instires miroe are mch greate , smal industies are at .45 
+much less in manufatureing but equql in services , low manaufaturing 
+rainfla ois 305 less that cluster 0 
+total roads are half as coapred to cluster one ,
+rinfall per are is 1/3 of luster 0 , industry over all and forets are is almost 1/2 as comprae to cluster 0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cluster 2 moderate so2 and  high spm, sharp cahnge in so2 mom 
+
+no2 lower the cluster 1 and rspm simialr to 1, so2 almost twice as high  and high on spm by 30 percent on cluste 1 and 65 percenton cluster 0
+p90 ;; rspm 200 percent and  spm 400 percent
+mom;;;;;; so2 p50 mom increase by 80percent , 13 percent mom drop in spm ;; p10 145 range in spm ;; 46 percent negative mobvement p10
+populationis on lower side, desity is vry low ; moderate elevation ;;; highest forest cluster ; high forste are in lcuster 
+high wise ; similar no forset are as cluster 1; no national highway ; low state highway ; similar raiway like with cluster 1 
+moderate rainfall,very low indsureties all angeles; low all ratios
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cluster 3
+p50 ; lowested no2,so2 low rspm, highse spm ;; p10 rspm on teh teh accpetabel bounday , spm very high ; p90 spm high ever rspm veryhigh ay 60 percent above acceptabel level 
+mom -p50 all decent negatives except for spm  which wnetup by 33 percent   ; p10 spm went up 50 percent;;;; p90; spm so2 no2 all saw highest drops 
+populationis on lower side, desity is vry low; moderate elevation ;;; all same as cluster 2; highest rainfall ; rest all same 
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cluster 4 ;; lower so2 and rspm the cluster 2  
+p 50 ; loswest so2, no2 lower the cluster 1 similar sluter 2  , rspm moderate, spm slight higher than cluster 2
+p10;; minisuacal so2 n so2 ,within limit rspm , spm 505 higher that accpeatbel level
+p90; low so2 , no2 low ; 50 percent higher tah accptable rspm and spm 330 percent 
+mom p50,p10,p90; all dropped; 
+moderate population -- higheste population density -- lowest sex ratio ;higheste literacy rate ; lowest elevation-- related to low so2 and no2 
+lowest forest area; moderate percentage wise , low area hence densty was high , high non forest area but not since the area is small
+state high rest all zero ; lowest rail 
+industrial area is highest
+moderate micro and min industires 
+high large indsuties, moderate medim insutires 
+highest small, large  services, micro industies are also high 
+services overall countis highest , manu is moderate overall total , overall toal si also moderate 
+rainfall is high ; higehst indues by rainfall ; all isndusties percentage are high 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+cluster 5 ;;;
+p50; highest no2 median  mdoerate rspm ; almsoe lowest so2 very low very high spm 
+p10; alli within rnage but spm is 85 percent high still 
+p90; higehs no2 , rspm 82 perce high teh actable , so2 is still evry low , spm is 40005 of accpeatbel value 
+mom p50, excpet for so2  , all other have moevd up positively no2 being one 33 percent 
+all othr observations ame as cluster 4
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+cluster 6 ;;;;;;; 
+p50; level no2, modereate abut very accpetabel so2, high rspm 120 percent high spm too
+p10, highest no2 ,accpetabel so2 and rspm , spm 81 [ercent above accpetabel level
+p90;; moderate no2 ; high spm and rspm , high so2  
+mom p50; slight high for rspm and spm , neligible for no2 so2
+p10;; resp and spm went up 
+p90 ;;;resp and spm went up 
+very high population but copaable high  density , highest evelvation ,
+ high forest area, low percentage , lowest non argricultural land percantgea wise , higher barren land even percentage 
+ very high all all roadn and rail road, high cluster indsutrial area 
+ all industies highest and mircor services 
+ moderate rainfall 
+
+
+
+
+
